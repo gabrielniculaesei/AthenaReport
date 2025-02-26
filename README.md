@@ -20,7 +20,5 @@ The assessment was conducted using various industry-standard tools, including bu
 - Burp Suite
 - Netcat
 
-## Disclaimer
-This repository is for educational and ethical research purposes only. Unauthorized penetration testing or exploitation of systems without proper authorization is illegal and strictly prohibited.
 
 
